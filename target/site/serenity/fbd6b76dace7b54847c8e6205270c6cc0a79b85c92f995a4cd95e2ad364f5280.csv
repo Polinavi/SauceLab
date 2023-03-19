@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Checkout with items tests","User is checking out with item and getting error message when first name field is empty","SUCCESS","2023-03-19T14:45:18.500893-04:00[America/New_York]","0.0","8.08"
+"Login tests","Login with Invalid credentials","SUCCESS","2023-03-19T14:45:26.895801-04:00[America/New_York]","0.0","3.4"
+"Login tests","Standard user is logging on to the application","SUCCESS","2023-03-19T14:45:30.450799-04:00[America/New_York]","0.0","3.35"
+"Inventory items tests","Verify Items on inventory page","SUCCESS","2023-03-19T14:45:33.967352-04:00[America/New_York]","0.0","3.48"

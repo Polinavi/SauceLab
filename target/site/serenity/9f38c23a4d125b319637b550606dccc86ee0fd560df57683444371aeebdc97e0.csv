@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Checkout with items tests","User is checking out with item and getting error message when first name field is empty","SUCCESS","2023-03-19T14:45:18.500893-04:00[America/New_York]","0.0","8.08"

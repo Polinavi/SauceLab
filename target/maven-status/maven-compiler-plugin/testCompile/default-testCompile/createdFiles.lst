@@ -1,0 +1,12 @@
+com/sauceDemo/Utils/Users.class
+com/sauceDemo/Steps/LoginActions.class
+com/sauceDemo/Tests/InventoryItemsTests.class
+com/sauceDemo/Pages/Checkout.class
+com/sauceDemo/Pages/Cart.class
+com/sauceDemo/Tests/LoginTests.class
+com/sauceDemo/Steps/CheckoutActions.class
+com/sauceDemo/Pages/LoginPage.class
+com/sauceDemo/Pages/IndividualProduct.class
+com/sauceDemo/Pages/InventoryPage.class
+com/sauceDemo/Steps/ProductAction.class
+com/sauceDemo/Tests/CheckoutWithItemsTests.class

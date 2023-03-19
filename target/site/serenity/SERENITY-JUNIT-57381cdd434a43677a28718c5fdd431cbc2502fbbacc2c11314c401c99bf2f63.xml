@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="com.sauceDemo.Tests.CheckoutWithItemsTests" skipped="0" tests="1" time="8.08" timestamp="2023-03-19 02:45:18"><testcase classname="com.sauceDemo.Tests.CheckoutWithItemsTests" name="User is checking out with item and getting error message when first name field is empty"/></testsuite>
